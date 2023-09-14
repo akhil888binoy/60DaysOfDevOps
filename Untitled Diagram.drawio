@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-09-14T07:01:24.762Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="dF0aVlcF9LkHZOaeHH1c" version="21.7.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-09-14T07:03:58.359Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36" etag="l8V72tbEtnq1SGLxcVTM" version="21.7.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="2200" dy="1205" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -8,13 +8,16 @@
           <mxGeometry x="2930" y="120" width="117.2" height="111.53" as="geometry" />
         </mxCell>
         <mxCell id="kaSFXn8B5hOx50bhZMlp-5" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="2840" y="90" width="310" height="310" as="geometry" />
+          <mxGeometry x="2846" y="90" width="320" height="320" as="geometry" />
         </mxCell>
         <mxCell id="kaSFXn8B5hOx50bhZMlp-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/security/Surveillance_Camera_Ceiling.svg;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2939.2599999999998" y="113.91" width="111.48" height="106.09" as="geometry" />
         </mxCell>
         <mxCell id="kaSFXn8B5hOx50bhZMlp-7" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.document;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="2956.5" y="260" width="77" height="105.37" as="geometry" />
+        </mxCell>
+        <mxCell id="kaSFXn8B5hOx50bhZMlp-9" value="DATA SOURCE" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="2853" y="30" width="306" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
